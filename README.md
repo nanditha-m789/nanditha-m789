@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Nanditha M 👋
+BSc Artificial Intelligence | CGPA: 9.56/10 | Bangalore
 
-<!--
-**nanditha-m789/nanditha-m789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI/ML Engineer | Seeking AI/ML Engineer Roles
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
+- **Languages:** Python, Java, SQL
+- **AI/ML:** Machine Learning, NLP, Deep Learning, Text-to-Speech
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, gTTS
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Google Colab
+- **Other:** IoT, Arduino, GPS, GSM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Projects
+-  AI-Powered Resume Screener & Job Matcher - NLP, ML, Streamlit
+-  Text-to-Speech AI System - Python, NLP
+-  MediTrack IoT - Medicine Supply Chain Monitoring
+-  WiFi Controlled Surveillance Robot
+  
+
+#### 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/nanditha-m-m-14b2b3259
+- Email: madhus0469@gmail.com
+
+✨ Passionate about building AI solutions that solve real-world problems!
