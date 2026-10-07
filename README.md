@@ -14,7 +14,7 @@ BSc Artificial Intelligence | CGPA: 9.56/10 | Bangalore
 -  AI-Powered Resume Screener & Job Matcher - NLP, ML, Streamlit
 -  Text-to-Speech AI System - Python, NLP
 -  MediTrack IoT - Medicine Supply Chain Monitoring
--  WiFi Controlled Surveillance Robot
+-  Wireless voice Controlled Humanoid Robot 
   
 
 #### 📫 Connect With Me
